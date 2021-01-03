@@ -1,4 +1,4 @@
-<h1><center>Hello, I'm [Sarnav Dutta!](https://sarnav.me) 👋</center></h1>
+# Hello, I'm [Sarnav Dutta!](https://sarnav.me) 👋
 
 <a href="https://twitter.com/sarnav98">
   <img align="left" alt="Sarnav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
