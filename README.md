@@ -4,7 +4,7 @@
   <img align="left" alt="Sarnav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/sarnav-dutta-786729b5">
-  <img align="left" alt="Sarnav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sarnav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sarnav98">
   <img align="left" alt="Sarnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -29,7 +29,7 @@
 - ⚡ Fun fact: I spend almost 12 hours learning something new everyday.
 
 [![Twitter: sarnav98](https://img.shields.io/twitter/follow/sarnav98?style=social)](https://twitter.com/sarnav98)
-[![Linkedin: sarnav98](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarnav-dutta-786729b5/)](https://www.linkedin.com/in/sarnav-dutta-786729b5/)
+[![Linkedin: sarnav98](https://img.shields.io/badge/-Sarnav Dutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarnav-dutta-786729b5/)](https://www.linkedin.com/in/sarnav-dutta-786729b5/)
 [![GitHub sarnav98](https://img.shields.io/github/followers/sarnav98?label=follow&style=social)](https://github.com/sarnav98)
 [![Website](https://img.shields.io/badge/WorkWebsite-Code.Coderly.in-2648ff?style=flat-square&logo=google-chrome)](https://code.coderly.in/)
 
