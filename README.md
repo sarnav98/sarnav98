@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently looking for a Full-time opportunity.
 - 🌱 I’m currently learning more about C++.
-- 🤔 I’m looking for help with [Valorant Skins](https://valorantskins.in/) | [Valorant News](https://valorantnews.in/)
+- 🤔 I’m looking for help with [Valorant Skins](https://valorantskins.in/) | [Nifty50.Live](https://nifty50.live/)
 - 💬 Ask me about any TECH related stuff.
 - 📫 How to reach me: [Email](mailto:sarnavdutta2011@gmail.com)
 - ⚡ Fun fact: I spend almost 12 hours learning something new everyday.
