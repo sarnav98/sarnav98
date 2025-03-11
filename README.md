@@ -1,61 +1,67 @@
-# Hello, I'm [Sarnav Dutta!](https://sarnav.me) 👋
+# Sarnav Dutta 👋
 
-<a href="https://twitter.com/sarnav98">
-  <img align="left" alt="Sarnav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/sarnav-dutta-786729b5">
-  <img align="left" alt="Sarnav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sarnav98">
-  <img align="left" alt="Sarnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/sarnavdutta/">
-  <img align="left" alt="Sarnav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCOoXB0VT_Zs7jgbaeh-paZw">
-  <img align="left" alt="Sarnav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+**Automation Test Engineer | QA Lead**  
+📍 Kolkata, India  
+📧 [sarnavdutta2011@gmail.com](mailto:sarnavdutta2011@gmail.com)
 
-<br/>
-<br/>
+---
 
+## 🚀 About Me
 
+I am an experienced Automation Test Engineer with expertise in designing and executing robust testing frameworks. Skilled in leveraging tools like Selenium WebDriver, Cucumber, and TestNG to enhance test efficiency and accuracy. Passionate about optimizing testing processes and ensuring the highest quality in software solutions.
 
-- 🔭 I’m currently looking for a Full-time opportunity.
-- 🌱 I’m currently learning more about C++.
-- 🤔 I’m looking for help with [Valorant Skins](https://valorantskins.in/) | [Nifty50.Live](https://nifty50.live/)
-- 💬 Ask me about any TECH related stuff.
-- 📫 How to reach me: [Email](mailto:sarnavdutta2011@gmail.com)
-- ⚡ Fun fact: I spend almost 12 hours learning something new everyday.
+---
 
-[![Twitter: sarnav98](https://img.shields.io/twitter/follow/sarnav98?style=social)](https://twitter.com/sarnav98)
-[![Linkedin: sarnav98](https://img.shields.io/badge/-sarnavdutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarnav-dutta-786729b5/)](https://www.linkedin.com/in/sarnav-dutta-786729b5/)
-[![GitHub sarnav98](https://img.shields.io/github/followers/sarnav98?label=follow&style=social)](https://github.com/sarnav98)
-[![Website](https://img.shields.io/badge/Valorant-News-2648ff?style=flat-square&logo=google-chrome)](https://valorantnews.in/)
-[![Website](https://img.shields.io/badge/Valorant-Skins-2648ff?style=flat-square&logo=google-chrome)](https://valorantskins.in/)
-[![Website](https://img.shields.io/badge/PersonalWebsite-2648ff?style=flat-square&logo=google-chrome)](https://sarnav.me/)
+## 🛠️ Technical Skills
 
+- **Languages & Databases:** Java, Gherkin, SQL, MySQL, Oracle  
+- **Automation Tools:** Selenium WebDriver, Cucumber, TestNG, Postman, RestAssured  
+- **Operating Systems:** Unix, Linux, Windows  
+- **Project Management Tools:** Azure DevOps, JIRA, qTest  
+- **Methodologies:** Agile, BDD, Data-Driven Testing  
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## 💼 Professional Experience
 
-<a href="https://github.com/sarnav98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarnav98&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/sarnav98">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarnav98&show_icons=true&theme=light&line_height=27" alt="Sarnav's github stats"/>
-</a>
+### **Automation Test Engineer / QA Lead** *(Feb 2023 – Present)*  
+- Automated regression test scenarios reducing manual effort by 30%.  
+- Configured TestNG listeners and custom reports for detailed execution insights.  
+- Conducted API testing using POSTMAN and validated key REST API functionalities.  
+- Created and executed Cucumber BDD feature files, simplifying communication with stakeholders.  
+- Set up TestNG configurations for parallel execution, optimizing test efficiency by 25%.  
+- Mentored team members on Cucumber and TestNG integration.  
+- Presented detailed test execution reports to stakeholders.
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
+### **Automation Test Engineer** *(Aug 2022 – Jan 2023)*  
+- Designed a hybrid automation framework integrating WebDriver, TestNG, and Cucumber.  
+- Authored Gherkin-style feature files, increasing test coverage by 40%.  
+- Automated API testing workflows using Postman, enhancing issue detection.  
+- Configured Jenkins pipelines for continuous integration of automated test suites.  
+- Improved WebDriver script efficiency, reducing execution time by 20%.
 
-</div>
+---
+
+### **Test Analyst** *(Jul 2021 – Aug 2022)*  
+- Developed a hybrid automation framework using Selenium WebDriver and Apache POI.  
+- Integrated automation workflows with Azure DevOps, improving efficiency by 25%.  
+- Conducted 20+ training sessions on Cucumber, TestNG, and Selenium.  
+- Spearheaded regression test suite maintenance, ensuring 100% coverage during updates.  
+- Analyzed business scenarios and service-level objectives for better risk assessment.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+*Techno Main Saltlake (under MAKAUT)* | Aug 2017 – Jul 2021 | Kolkata, West Bengal  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sarnav-dutta-786729b5)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/sarnav98)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/sarnav98)  
